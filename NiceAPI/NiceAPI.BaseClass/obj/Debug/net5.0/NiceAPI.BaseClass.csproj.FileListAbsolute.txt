@@ -1,0 +1,12 @@
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\bin\Debug\net5.0\NiceAPI.BaseClass.deps.json
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\bin\Debug\net5.0\NiceAPI.BaseClass.dll
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\bin\Debug\net5.0\ref\NiceAPI.BaseClass.dll
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\bin\Debug\net5.0\NiceAPI.BaseClass.pdb
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\obj\Debug\net5.0\NiceAPI.BaseClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\obj\Debug\net5.0\NiceAPI.BaseClass.AssemblyInfoInputs.cache
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\obj\Debug\net5.0\NiceAPI.BaseClass.AssemblyInfo.cs
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\obj\Debug\net5.0\NiceAPI.BaseClass.csproj.CoreCompileInputs.cache
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\obj\Debug\net5.0\NiceAPI.BaseClass.dll
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\obj\Debug\net5.0\ref\NiceAPI.BaseClass.dll
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\obj\Debug\net5.0\NiceAPI.BaseClass.pdb
+C:\Users\aaydoga6\source\Repos\fordintern-homework-1-ayseglaydgan\NiceAPI\NiceAPI.BaseClass\obj\Debug\net5.0\NiceAPI.BaseClass.csproj.AssemblyReference.cache
